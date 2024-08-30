@@ -9,7 +9,7 @@
 	"wait_time": 30, # sleep time
 	"accounts": [
 		{
-			"phone": "+91XXXXXXXXXX",
+			"phone": "977XXXXXXXXXX",
 			"api_id": 25194789,
 			"api_hash": "e59afe25c17585635ec031c889eb5b34"
 		}
